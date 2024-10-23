@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 You can install the dependencies using pip:
 
-```bash
+``bash
 pip install numpy opencv-python matplotlib
 
 ## Clone
