@@ -1,3 +1,4 @@
+```markdown
 # Machine Vision Mask Detection 
 
 This project implements a real-time mask color detection system using computer vision techniques with OpenCV. It detects the presence of different colored masks, including **blue (surgical mask)**, **white (KN95 mask)**, and **black (surgical mask)**, by analyzing frames captured from a webcam or video input. The project processes video frames to highlight and label detected masks based on their color.
