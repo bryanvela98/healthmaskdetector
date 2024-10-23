@@ -55,4 +55,4 @@ To process a sample video for mask detection, use:
 python color_mask_detection.py
 ```
 ### Contributing
-Feel free to submit issues or pull requests if you would l
+Feel free to submit issues or pull requests if you would.
